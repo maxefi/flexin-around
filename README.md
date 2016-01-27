@@ -1,5 +1,6 @@
 # flexin-around
 "flexin" adaptive layout
 
-npm i
-bower i
+1. bower i
+2. npm i
+3. gulp
