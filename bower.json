@@ -1,0 +1,17 @@
+{
+  "name": "flexin",
+  "authors": [
+    "Efimov Maxim <maxefi@mail.ru>"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "sanitize-css": "~3.0.0",
+    "normalize-css": "~3.0.3"
+  }
+}
